@@ -1,0 +1,32 @@
+{
+  "name": "webapp-angular",
+  "version": "1.0.0",
+  "description": "webapp build by angular",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-less": "^3.3.0",
+    "gulp-load-plugins": "^1.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shangpudxd/webapp-angular.git"
+  },
+  "keywords": [
+    "ssm2701955"
+  ],
+  "author": "shangpudxd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shangpudxd/webapp-angular/issues"
+  },
+  "homepage": "https://github.com/shangpudxd/webapp-angular#readme"
+}
