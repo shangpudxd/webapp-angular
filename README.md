@@ -1,2 +1,3 @@
-# webapp-angular
-A webapp build with angular 
+# 低仿拉钩手机端页面应用
+## 实现了几个基本页面的功能
+包括公司职位列表、职位详细信息、个人主页等页面及其基本交互内容
